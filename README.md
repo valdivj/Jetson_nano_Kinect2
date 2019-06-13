@@ -59,6 +59,7 @@ You need to replace "/joev/" with youre path name.
 1. $sudo ~/.bashrc
 
 2. Scroll down to the bottom and install this:
+
 export LIBFREENECT2_INSTALL_PREFIX=/home/joev/libfreenect2/
 
 export LD_LIBRARY_PATH=/home/joev/freenect2/lib:$LD_LIBRARY_PATH
